@@ -2,7 +2,7 @@
 
 echo 'The following "npm" command builds your Node.js/React application for'
 echo 'production in the local "build" directory (i.e. within the'
-echo '"C:\ProgramData\Jenkins\.jenkins\workspace\React-Rep" directory),'
+echo '"C:\ProgramData\Jenkins\.jenkins\workspace\React-pipeline" directory),'
 echo 'correctly bundles React in production mode and optimizes the build for'
 echo 'the best performance.'
 set -x
